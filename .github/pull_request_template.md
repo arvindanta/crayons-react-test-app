@@ -11,7 +11,7 @@
 
 freshrelease -
 
-Invision -
+Figma -
 
 Other related PRs -
 
