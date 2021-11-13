@@ -1,11 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import { BrowserRouter } from 'react-router-dom';
+import Navbar from './Navbar';
+import Main from './Main';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+   <BrowserRouter>
+   <Navbar></Navbar>
+        <Main />
+    </BrowserRouter>, 
   </React.StrictMode>,
   document.getElementById('freshworks-widget-root')
 );
