@@ -1151,18 +1151,17 @@
 
 "@freshworks/crayons-1@file:../../crayons/packages/crayons-core":
   "resolved" "file:../../crayons/packages/crayons-core"
-  "version" "3.0.0-beta.2"
+  "version" "3.0.0-beta.3"
   dependencies:
     "@popperjs/core" "^2.10.2"
     "@stencil/core" "2.9.0"
     "moment-mini" "^2.24.0"
-    "multi-nprogress" "0.3.5"
 
 "@freshworks/crayons-datatable-1@file:../../crayons/packages/crayons-datatable":
   "resolved" "file:../../crayons/packages/crayons-datatable"
-  "version" "0.1.0"
+  "version" "0.1.1"
   dependencies:
-    "@freshworks/crayons" "^3.0.0-beta.2"
+    "@freshworks/crayons" "^3.0.0-beta.3"
     "@stencil/core" "2.9.0"
     "moment-mini" "^2.24.0"
 

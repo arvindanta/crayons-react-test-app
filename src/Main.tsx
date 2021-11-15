@@ -1,7 +1,5 @@
 import React from "react";
-import About from "./About";
-import App from "./App";
-import { Route, Switch } from "react-router-dom";
+import { Switch } from "react-router-dom";
 import FancyRoute from "./FancyRoute";
 import routes from "./routes";
 
